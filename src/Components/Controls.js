@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import '../Styles/Controls.css';
 
 const Contorls = ({play, stop}) => {
   return (
